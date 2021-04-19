@@ -73,3 +73,31 @@ body{
                 text-align:center;
                 font-size: 30px;
             }
+@media (max-width: 900px) {
+    .container{
+        width: 80%;
+    }
+    .left-column{
+        width: 100%;
+        position: absolute;
+        top: -50px;
+        bottom: -50px;
+        padding: 0;
+    }
+    .right-column{
+        width: 100%;
+        padding: 20px;
+    }
+    .bottom-links{
+        left: 0px;
+        right: 0px;
+        text-align: center;
+    }
+    .page-title{
+        display: inline-block;
+        width: 100%;
+        font-weight: normal;
+        padding-left: 20px;
+    }
+
+}

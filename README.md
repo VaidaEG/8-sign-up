@@ -4,9 +4,9 @@
 # Sign up
 ### 19 group project
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+This project is for educational porpuses only.
 
-Site published at https://github.com/VaidaEG/8-sign-up
+Site published at https://vaidaeg.github.io/8-sign-up/
 
 Design: [Sign up model](ttps://github.com/VaidaEG/8-sign-up)
 
