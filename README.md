@@ -12,6 +12,8 @@ Design: [Sign up model](ttps://github.com/VaidaEG/8-sign-up)
 
 
 ## Project features
+
+- responsive
 - position absolute
 - form
 - background images
